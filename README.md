@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-  Iniciando back-end do GoBarber
+  03 back-end do GoBarber
 </h3>
 
 <p align="center">Código do segundo módulo do <a href="https://rocketseat.com.br/bootcamp">Bootcamp GoStack</a> 🎓</p>
