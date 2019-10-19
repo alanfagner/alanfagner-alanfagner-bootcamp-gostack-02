@@ -15,7 +15,7 @@
 ## 🚀 Instalação e execução
 
 1. Faça um clone desse repositório;
-2. Entre na pasta rodando `cd bootcamp-gostack-02`;
+2. Entre na pasta rodando `cd bootcamp-gostack-gobarber`;
 3. Rode `yarn` para instalar as dependências;
 4. Crie um banco de dados no `postgres` com o nome de `gobarber`;
 5. Altere as credencias dentro de `/src/app/config/database.js`;
