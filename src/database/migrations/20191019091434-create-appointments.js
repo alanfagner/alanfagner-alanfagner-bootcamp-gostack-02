@@ -1,4 +1,6 @@
 module.exports = {
+  // yarn sequelize migration:create --name=users
+  // yarn sequelize db:migrate
   up: (queryInterface, Sequelize) => {
     return queryInterface.createTable('appointments', {
       id: {
